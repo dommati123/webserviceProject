@@ -1,0 +1,23 @@
+[0506/054512.619:ERROR:process_reader_win.cc(182)] ResumeThread: The parameter is incorrect. (0x57)
+[0506/054512.642:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0506/054512.642:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0506/054512.642:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0506/054512.642:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0506/054512.642:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0506/054512.643:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0506/054512.643:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0506/054512.644:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0506/054512.644:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0506/054512.644:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0506/054512.644:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0506/054512.644:ERROR:exception_snapshot_win.cc(98)] thread ID 14296 not found in process
+[0509/084155.619:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0510/084155.955:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/114743.112:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0514/114743.438:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0515/114743.722:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0516/114744.031:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0517/114744.296:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0520/043844.208:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0521/043844.504:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0522/043844.805:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
